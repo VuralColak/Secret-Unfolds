@@ -75,7 +75,7 @@ main:hover .box1 {
 }
 
 main:hover .box2 {
-    transform: translateX(90%) rotate(90deg);
+    transform: translateX(90%) rotate(-90deg);
 }
 
 main:hover .box3 {
@@ -83,7 +83,7 @@ main:hover .box3 {
 }
 
 main:hover .box4 {
-    transform: translateX(-90%) rotate(90deg);
+    transform: translateX(-90%) rotate(-90deg);
 }
 
 main:hover p {
