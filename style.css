@@ -30,11 +30,14 @@ h1 {
     font-size: 50px;
     transition-duration: 2s;
     text-align: center;
+    transition-delay: 0.5s;
+
 }
 
 p {
     text-align: center;
     transition-duration: 1.5s;
+    transition-delay: 1s;
 }
 
 .box {
@@ -42,6 +45,7 @@ p {
     aspect-ratio: 1/1;
     position: absolute;
     transition-duration: 1.3s;
+    transition-delay: 0.2s;
     border-radius: 5px;
 
 }
