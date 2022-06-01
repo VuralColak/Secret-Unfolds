@@ -75,19 +75,19 @@ p {
 }
 
 main:hover .box1 {
-    transform: translateX(-90%) rotate(90deg);
+    transform: translateX(-100%) rotate(90deg);
 }
 
 main:hover .box2 {
-    transform: translateX(90%) rotate(-90deg);
+    transform: translateX(100%) rotate(-90deg);
 }
 
 main:hover .box3 {
-    transform: translateX(90%) rotate(90deg);
+    transform: translateX(100%) rotate(90deg);
 }
 
 main:hover .box4 {
-    transform: translateX(-90%) rotate(-90deg);
+    transform: translateX(-100%) rotate(-90deg);
 }
 
 main:hover p {
